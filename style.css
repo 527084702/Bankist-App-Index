@@ -169,6 +169,11 @@ img {
   background-color: var(--color-primary-darker);
   color: #333;
 }
+.nav__link_login {
+  font-size: 1.5rem;
+  color: inherit;
+  font-weight: 400;
+}
 
 /* HEADER */
 .header {
